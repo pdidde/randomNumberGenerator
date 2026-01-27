@@ -1,0 +1,12 @@
+.mvn/
+target/
+.DS_Store
+*.class
+*.jar
+*.log
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.code-workspace
