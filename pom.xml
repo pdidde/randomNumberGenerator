@@ -13,7 +13,8 @@
     <description>REST API to generate random 4-digit numbers</description>
     <version>0.0.1-SNAPSHOT</version>
     <properties>
-        <java.version>21</java.version>
+            <java.version>17</java.version>
+            <spring-boot.version>3.5.6</spring-boot.version>
     </properties>
     <dependencies>
         <dependency>
